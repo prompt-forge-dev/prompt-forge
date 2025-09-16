@@ -6,7 +6,9 @@ PromptForge is a comprehensive Web3 full-stack application that allows users to 
 
 This project showcases an advanced full-stack architecture, demonstrating proficiency in AI integration, decentralized storage, secure blockchain interactions, and a modern, user-friendly frontend.
 
-**Watch a Demo Video:** [https://youtu.be/BPlr2dJIbCU]
+**Watch a Demo Video:** 
+
+[![Prompt Forge - Demo Video](https://img.youtube.com/vi/BPlr2dJIbCU/hqdefault.jpg)](https://youtu.be/BPlr2dJIbCU)
 
 ---
 
@@ -116,7 +118,7 @@ Actually, this project is cloned and revised from [Full Stack FastAPI Template](
 
 ### **Contact Information**
 
-- **Author**: [Kenny Cheng](https://www.linkedin.com/in/kenny-cheng-924032118/)
+- **Author**: [[Kenny Cheng](https://www.linkedin.com/in/kenny-cheng-924032118/)]
 - **GitHub**: [https://github.com/prompt-forge-dev]
 
 ---
